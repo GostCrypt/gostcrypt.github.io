@@ -1,0 +1,4 @@
+name: GOST Cryptography project
+safe: true
+lsi: false
+pygments: true
