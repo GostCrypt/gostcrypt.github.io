@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: GOST standards implementation
+title: Implementation status
 permalink: standards
 special: true
 ---

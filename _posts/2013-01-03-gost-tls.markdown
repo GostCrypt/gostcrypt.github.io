@@ -1,0 +1,56 @@
+---
+layout: simple
+title: Enabling GnuTLS 
+permalink: gost-tls
+special: true
+---
+
+### GnuTLS with LibGCrypt
+
+A long time ago it was possible to build GnuTLS with either Nettle crypto backend or with libgcrypt one. At some point this functionality was removed. The first step is to bring things back.
+
+#### Internal Crypto backend API
+##### MPI
+* bigint_clear DONE
+
+##### cipher
+* auth - WIP
+* tag - WIP
+* exists DONE
+
+##### MAC
+* setnonce -
+* fast DONE
+* exists DONE
+
+##### Digest
+* fast DONE
+* exists DONE
+
+##### PK
+* verify_params DONE
+* hash_algorithm DONE
+* derive DONE
+
+##### RND
+* rnd_refresh DONE
+
+#### libgcrypt additions
+##### Required
+* PKCS1 simple verification (hash AID checked on the caller's side).
+
+##### Optional
+* GCM - WIP
+* UMAC
+
+##### Done
+* Salsa20 and Salsa20/12.
+
+### GOST support in GnuTLS
+
+* Add support for GOST public and private keys loading
+* Add support for actually handling GOST keys
+* Add support for GOST ciphersuites
+* (optional) S/MIME to PKCS 7 conversion as handled by certtool ????
+* (optional) - dnssec/dane/etc
+* TC26 defined addenums to PKCS #5, #8, #12 and #15. Analyze if there is anything to implement in GnuTLS.
