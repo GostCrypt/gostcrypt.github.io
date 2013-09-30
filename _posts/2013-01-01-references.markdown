@@ -7,7 +7,7 @@ special: true
 ### GOST texts
 #### Official
 * [GOST 28147-89](http://protect.gost.ru/v.aspx?control=7&id=139177)
-* GOST R 34.10-94
+* [GOST R 34.10-94](http://russgost.ru/catalog/item17756)
 * [GOST R 34.10-2001](http://protect.gost.ru/v.aspx?control=7&id=131131)
 * [GOST R 34.10-2012](http://protect.gost.ru/v.aspx?control=7&id=180151)
 * [GOST R 34.11-94](http://protect.gost.ru/document.aspx?control=7&id=134550)
@@ -15,7 +15,7 @@ special: true
 
 #### Translations to English
 * [GOST 28147-89 / RFC 5830](http://tools.ietf.org/html/rfc5830)
-* GOST R 34.10-94
+* GOST R 34.10-94 - was not translated
 * [GOST R 34.10-2001 / RFC 5832](http://tools.ietf.org/html/rfc5832)
 * [GOST R 34.10-2012 / RFC xxxx](http://tools.ietf.org/html/draft-dolmatov-gost34102012)
 * [GOST R 34.11-94 / RFC 5831](http://tools.ietf.org/html/rfc5831)
