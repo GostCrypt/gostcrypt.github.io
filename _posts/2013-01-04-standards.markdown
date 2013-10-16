@@ -13,8 +13,8 @@ special: true
     * CNT - WIP
     * IMIT - not implemented
 1. GOST R 34.10-94 - not implemented
-1. GOST R 34.10-2001 - submitted
-1. GOST R 34.10-2012 - submitted
+1. GOST R 34.10-2001 - merged
+1. GOST R 34.10-2012 - merged
 1. GOST R 34.11-94 - merged, test params only
 1. GOST R 34.11-2012 - merged
 
