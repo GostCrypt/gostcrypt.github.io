@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Libgcrypt 1.6.0 released"
+---
+
+Yesterday Werner Koch has tagged the 1.6.0 release of Libgcrypt.
+
+What does that mean for us? All required algorithms are in place. For some of them we just miss proper curves declarations.
+For some of them there will be an gcry\_control call to select proper S-box.
+
+Another important milestone --- with slightly patched Libgcrypt and my local GnuTLS library I got 'pass' marks in most of the test suite in GnuTLS. There are still few tests failing, but hopefully I can fix them soon. That would mean that I can start working on bringing GOST keys support to GnuTLS.
