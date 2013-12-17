@@ -14,8 +14,8 @@ A long time ago it was possible to build GnuTLS with either Nettle crypto backen
 * bigint_clear DONE
 
 ##### cipher
-* auth - WIP
-* tag - WIP
+* auth - DONE
+* tag - DONE
 * exists DONE
 
 ##### MAC
@@ -40,11 +40,11 @@ A long time ago it was possible to build GnuTLS with either Nettle crypto backen
 * PKCS1 simple verification (hash AID checked on the caller's side).
 
 ##### Optional
-* GCM - WIP
 * UMAC
 
 ##### Done
 * Salsa20 and Salsa20/12.
+* GCM
 
 ### GOST support in GnuTLS
 
