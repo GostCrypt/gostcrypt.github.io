@@ -17,9 +17,9 @@ special: true
 * [GOST 28147-89 / RFC 5830](http://tools.ietf.org/html/rfc5830)
 * GOST R 34.10-94 - was not translated
 * [GOST R 34.10-2001 / RFC 5832](http://tools.ietf.org/html/rfc5832)
-* [GOST R 34.10-2012 / RFC xxxx](http://tools.ietf.org/html/draft-dolmatov-gost34102012)
+* [GOST R 34.10-2012 / RFC 7091](http://tools.ietf.org/html/rfc7091)
 * [GOST R 34.11-94 / RFC 5831](http://tools.ietf.org/html/rfc5831)
-* [GOST R 34.11-2012 / RFC xxxx](http://tools.ietf.org/html/draft-dolmatov-gost34112012)
+* [GOST R 34.11-2012 / RFC 6986](http://tools.ietf.org/html/rfc6986)
 
 
 ### RFCs
