@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "First patches got merged into libgcrypt"
+categories: [posts]
 ---
 
 Today a first set of patches implementing GOST cryptography got merged into libgcrypt.

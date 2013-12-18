@@ -2,7 +2,7 @@
 layout: simple
 title: Implementation status
 permalink: standards
-special: true
+categories: [special]
 ---
 ### GOST Standards
 

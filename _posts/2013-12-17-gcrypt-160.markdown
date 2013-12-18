@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Libgcrypt 1.6.0 released"
+categories: [posts]
 ---
 
 Yesterday Werner Koch has tagged the 1.6.0 release of Libgcrypt.

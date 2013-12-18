@@ -2,7 +2,7 @@
 layout: simple
 title: References
 permalink: references
-special: true
+categories: [special]
 ---
 ### GOST texts
 #### Official
