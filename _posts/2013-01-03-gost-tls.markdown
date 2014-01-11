@@ -10,34 +10,13 @@ special: true
 A long time ago it was possible to build GnuTLS with either Nettle crypto backend or with libgcrypt one. At some point this functionality was removed. The first step is to bring things back.
 
 #### Internal Crypto backend API
-##### MPI
-* bigint_clear DONE
 
-##### cipher
-* auth - DONE
-* tag - DONE
-* exists DONE
-
-##### MAC
-* setnonce -
-* fast DONE
-* exists DONE
-
-##### Digest
-* fast DONE
-* exists DONE
-
-##### PK
-* verify_params DONE
-* hash_algorithm DONE
-* derive DONE
-
-##### RND
-* rnd_refresh DONE
+In my current tree all API is supported.
 
 #### libgcrypt additions
 ##### Required
-* PKCS1 simple verification (hash AID checked on the caller's side).
+* PKCS1 simple verification (hash AID checked on the caller's side) (submitted).
+* Hash truncation for DSA/ECDSA modes.
 
 ##### Optional
 * UMAC
