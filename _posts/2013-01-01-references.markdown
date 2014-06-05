@@ -28,6 +28,6 @@ categories: [special]
 * [CPCMS / RFC 4490](https://tools.ietf.org/html/rfc4490)
 * [CPTLS / unpublished](http://tools.ietf.org/html/draft-chudov-cryptopro-cptls)
 * [DNSSEC / RFC 5933](https://tools.ietf.org/html/rfc5933)
-* [XMLDSIG /unpublihed](http://tools.ietf.org/html/draft-chudov-cryptopro-cpxmldsig),
+* [XMLDSIG / WIP](http://tools.ietf.org/html/draft-chudov-cryptopro-cpxmldsig),
   <del>there is an old draft but I am not sure if it reflects current practice</del>
   The draft was recently updated.
