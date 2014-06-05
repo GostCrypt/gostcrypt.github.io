@@ -2,5 +2,6 @@ name: GOST Cryptography project
 safe: true
 lsi: false
 pygments: true
+markdown: kramdown
 description: GOST Cryptography statuses and updates
 url: http://gostcrypt.github.io
