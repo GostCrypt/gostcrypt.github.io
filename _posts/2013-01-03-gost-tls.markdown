@@ -14,6 +14,7 @@ A long time ago it was possible to build GnuTLS with either Nettle crypto backen
 In my current tree all API is supported.
 
 #### libgcrypt additions
+
 ##### Required
 * PKCS1 simple verification (hash AID checked on the caller's side) (submitted).
 * Hash truncation for DSA/ECDSA modes.
