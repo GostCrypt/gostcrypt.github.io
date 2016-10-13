@@ -1,8 +1,6 @@
 ---
 layout: simple
 title: Enabling GnuTLS 
-permalink: gost-tls
-categories: [special]
 ---
 
 ### GnuTLS with LibGCrypt

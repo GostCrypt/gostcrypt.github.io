@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "LibreSSL 2.1.2 featuring GOST cryptography was released"
-categories: [posts]
 ---
 
 LibreSSL library version supporting GOST cryptography was released.

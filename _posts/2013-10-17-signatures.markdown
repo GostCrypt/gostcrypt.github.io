@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Merged ECC GOST signatures"
-categories: [posts]
 ---
 
 Today libgcrypt received support for GOST signatures based on elliptic curves cryptography (GOST R 34.10-2001/-2012).

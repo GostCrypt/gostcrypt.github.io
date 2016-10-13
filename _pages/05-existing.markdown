@@ -1,8 +1,6 @@
 ---
 layout: simple
 title: Existing implementations
-permalink: existing
-categories: [special]
 ---
 
 Of course there several implementations of GOST algorithms, both open and closed source

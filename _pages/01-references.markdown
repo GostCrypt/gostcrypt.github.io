@@ -1,8 +1,6 @@
 ---
 layout: simple
 title: References
-permalink: references
-categories: [special]
 ---
 ### GOST texts
 

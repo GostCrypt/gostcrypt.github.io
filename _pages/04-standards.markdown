@@ -1,8 +1,6 @@
 ---
 layout: simple
 title: Implementation status
-permalink: standards
-categories: [special]
 ---
 ### GOST Standards
 

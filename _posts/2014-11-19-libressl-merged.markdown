@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "LibreSSL got GOST support"
-categories: [posts]
 ---
 
 LibreSSL library received GOST cryptorgraphy support.

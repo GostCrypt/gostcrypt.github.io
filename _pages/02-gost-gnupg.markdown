@@ -1,8 +1,6 @@
 ---
 layout: simple
 title: Integration with GnuPG
-permalink: gost-gnupg
-categories: [special]
 ---
 
 * Make libksba understand GOST public keys/certificates
