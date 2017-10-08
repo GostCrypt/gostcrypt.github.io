@@ -27,6 +27,7 @@ title: References
 
 ### RFCs
 * [CPALGS / RFC 4357](https://tools.ietf.org/html/rfc4357)
+* [CPALGS #2 / RFC 7836](https://tools.ietf.org/html/rfc7836)
 * [CPPK / RFC 4491](https://tools.ietf.org/html/rfc4491)
 * [CPCMS / RFC 4490](https://tools.ietf.org/html/rfc4490)
 * [CPTLS / unpublished](http://tools.ietf.org/html/draft-chudov-cryptopro-cptls)
